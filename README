@@ -1,0 +1,8 @@
+Terraform Source code for Azure Virtual Machine:
+This code creates:
+Resource Groups
+VNET & Subnets and Public IPs
+VM with Ubuntu 20.04 Latest Image with Data Disk
+Nginx on VM
+
+
